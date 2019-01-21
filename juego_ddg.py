@@ -1,5 +1,5 @@
 
-lista_nombres = ["Ines", "Paula", "Carlos", "Alberto", "Carol"]
+lista_nombres = ["Ines", "Paula", "Carlos", "Alberto", "Carol", "Maria", "Lucia"]
 numero = int(input("Introduce un numero: "))
 
 def ddg(lista_nombres, numero):
@@ -11,4 +11,5 @@ def ddg(lista_nombres, numero):
         print("Error.")
 
 ddg(lista_nombres, numero)
+
 
